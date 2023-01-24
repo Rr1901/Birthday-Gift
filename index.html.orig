@@ -14,7 +14,11 @@
   </head>
   <body>
     <div id="header">
-      <h1>Today only is Nahi banega's birthday 🎉</h1>
+<<<<<<< HEAD
+      <h1>Today only is OFficial vala's birthday 🎉</h1>
+=======
+      <h1>Today only is Github's birthday 🎉</h1>
+>>>>>>> 3e6c1f4883bfbb71b3fed4ed1f6c12bb6fa248e3
       <img id="bff-img" src="images/nick.jpg" />
       <h2 id="bday-age">24 years old</h2>
       <h4 id="bday-date">01.11.2022</h4>
